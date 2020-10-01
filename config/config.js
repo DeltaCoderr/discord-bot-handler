@@ -5,10 +5,10 @@ global.Bot = Bot
 /******************************************************************************************
                Configuration of the Bot
 ******************************************************************************************/
-exports.prefix = "&";
+exports.prefix = "&"; //The Prefix
 
-exports.owners = ["552814506070507531"];
+exports.owners = ["552814506070507531"];//You're ID
 
-exports.token = "NzE0MDUyMjg3NzM1MTM2Mjk2.XspDAw.VTYdagGuROTS_52wqIC5GrhsXk8";
+exports.token = "";// Your Bot's Token goes here
 
-exports.activity = ""
+exports.activity = "" // Set Activity
