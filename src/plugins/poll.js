@@ -7,7 +7,7 @@ module.exports.command = {
     info: "Creates a poll based on the text which follows the command.",
   },
   run: function (message, user, args) {
-    let poll = args.slice(1, args.length).join(" ");
+    let poll = args.join(" ");
     const embed = new Discord.MessageEmbed()
       .setTitle(poll)
       .setThumbnail(
