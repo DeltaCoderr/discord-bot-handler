@@ -7,7 +7,7 @@ global.Bot = Bot
 ******************************************************************************************/
 exports.prefix = "&"; //The Prefix
 
-exports.owners = ["552814506070507531"];//You're ID
+exports.owners = [""];//You're ID
 
 exports.token = "";// Your Bot's Token goes here
 
